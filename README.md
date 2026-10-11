@@ -53,9 +53,11 @@ plt.show()
 ```
 
 ## Tablero principal, filtros , transformando datos
+
 Power BI [BD CURSOS]([https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)]
 
 ## Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
+
 Power BI [BD FACTURAS]([https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-])
 
 
