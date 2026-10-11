@@ -58,6 +58,17 @@ Otros proyectos con  Power BI
 
 ## Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
 
- [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
+[BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
- [BD GASTOS](https://https://github.com/lismarcamacho/BBDD-GASTOS)
+[BD GASTOS](https://https://github.com/lismarcamacho/BBDD-GASTOS)
+
+
+## Jerarquia de fechas
+- Matriz ,
+- Grafico de barras 100% apiladas
+- Segmentacion de datos
+- Graficos de lineas con leyenda
+- Graficos de lineas con multiplos pequeños
+- Mapa coropletico
+- Interacciones
+[BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
