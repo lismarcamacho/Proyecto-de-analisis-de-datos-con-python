@@ -60,7 +60,7 @@ Otros proyectos con  Power BI
 
 [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
-[BD GASTOS](https://https://github.com/lismarcamacho/BBDD-GASTOS)
+[BD GASTOS](https://github.com/lismarcamacho/BBDD-GASTOS)
 
 
 ## Jerarquia de fechas
@@ -72,3 +72,7 @@ Otros proyectos con  Power BI
 - Mapa coropletico
 - Interacciones
 [BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
+
+## Combinando columnas
+
+[BBDD-VENTAS-Y-CODIGOS - Intermedio](https://github.com/lismarcamacho/BBDD-VENTAS-Y-CODIGOS-POWER-BI/blob/main/README.md)
