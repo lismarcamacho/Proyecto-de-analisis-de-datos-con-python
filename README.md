@@ -51,19 +51,19 @@ dataset.plot(kind='scatter', x='Age', y='Weight', color='red', )
 # plt.title('Grafico de dispersion') # <- Añade esta línea exactamente aquí
 plt.show()
 ```
-Otros proyectos con  Power BI
-## Tablero principal, filtros , transformando datos
+## Otros proyectos con  Power BI
+### Tablero principal, filtros , transformando datos
 
  [BD CURSOS](https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)
 
-## Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
+### Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
 
 [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
 [BD GASTOS](https://github.com/lismarcamacho/BBDD-GASTOS)
 
 
-## Jerarquia de fechas
+### Jerarquia de fechas
 - Matriz ,
 - Grafico de barras 100% apiladas
 - Segmentacion de datos
@@ -73,11 +73,11 @@ Otros proyectos con  Power BI
 - Interacciones
 - [BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
 
-## Combinando columnas
+### Combinando columnas
 
 [BBDD-VENTAS-Y-CODIGOS - Intermedio](https://github.com/lismarcamacho/BBDD-VENTAS-Y-CODIGOS-POWER-BI/blob/main/README.md)
 
-## Anexando columnas, agregando columnas personalizadas
+### Anexando columnas, agregando columnas personalizadas
 [BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
 
 [MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
