@@ -71,8 +71,13 @@ Otros proyectos con  Power BI
 - Graficos de lineas con multiplos pequeños
 - Mapa coropletico
 - Interacciones
-[BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
+- [BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
 
 ## Combinando columnas
 
 [BBDD-VENTAS-Y-CODIGOS - Intermedio](https://github.com/lismarcamacho/BBDD-VENTAS-Y-CODIGOS-POWER-BI/blob/main/README.md)
+
+## Anexando columnas, agregando columnas personalizadas
+[BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
+
+[MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
