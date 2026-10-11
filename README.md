@@ -51,13 +51,13 @@ dataset.plot(kind='scatter', x='Age', y='Weight', color='red', )
 # plt.title('Grafico de dispersion') # <- Añade esta línea exactamente aquí
 plt.show()
 ```
-
+Otros proyectos con  Power BI
 ## Tablero principal, filtros , transformando datos
 
-Power BI [BD CURSOS](https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)
+ [BD CURSOS](https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)
 
 ## Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
 
-Power BI [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
+ [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
-
+ [BD GASTOS](https://https://github.com/lismarcamacho/BBDD-GASTOS)
