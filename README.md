@@ -60,7 +60,7 @@ plt.show()
 
 [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
-[BD GASTOS](https://github.com/lismarcamacho/BBDD-GASTOS)
+[BD GASTOS DE EMPLEADOS](https://github.com/lismarcamacho/BBDD-GASTOS)
 
 
 ### Jerarquia de fechas
