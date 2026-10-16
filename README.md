@@ -81,3 +81,6 @@ plt.show()
 [BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
 
 [MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
+
+
+[Importando carpetas en power bi- Intermedio](https://github.com/lismarcamacho/Carpeta-gastos-mensuales)
