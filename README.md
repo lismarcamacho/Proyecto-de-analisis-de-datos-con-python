@@ -80,6 +80,8 @@ plt.show()
 ### Anexando columnas, agregando columnas personalizadas
 [BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
 
+[Modelo de Datoa- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos/)
+
 [MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
 
 
