@@ -86,3 +86,5 @@ plt.show()
 
 
 [Importando carpetas en power bi- Intermedio](https://github.com/lismarcamacho/Carpeta-gastos-mensuales)
+
+[Modelo de datos snow flake power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos-snow-flake)
