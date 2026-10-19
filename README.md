@@ -90,3 +90,5 @@ plt.show()
 10. [Modelo de datos estrella en power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos)
 
 11 [Modelo de datos snow flake power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos-snow-flake)
+
+12. [Columnas calculadas y funciones DAX - power bi- Intermedio](https://github.com/lismarcamacho/Columnas-calculadas-y-funciones-DAX)
