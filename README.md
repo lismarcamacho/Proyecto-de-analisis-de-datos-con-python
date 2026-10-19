@@ -54,13 +54,13 @@ plt.show()
 ## Otros proyectos con  Power BI
 ### Tablero principal, filtros , transformando datos
 
- [BD CURSOS](https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)
+ 1. [BD CURSOS](https://github.com/lismarcamacho/Proyecto-analisis-de-datos---BD-CURSOS-)
 
 ### Vista de informe: Grafico de anillos , grafico de barras 100 % apiladas, segmentacion de datos , tarjeta, Vista de informe : Tablas y matriz
 
-[BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
+2. [BD FACTURAS](https://github.com/lismarcamacho/Proyecto-de-analisis-de-datos-de-BD-FACTURAS-)
 
-[BD GASTOS DE EMPLEADOS](https://github.com/lismarcamacho/BBDD-GASTOS)
+3. [BD GASTOS DE EMPLEADOS](https://github.com/lismarcamacho/BBDD-GASTOS)
 
 
 ### Jerarquia de fechas
@@ -71,20 +71,22 @@ plt.show()
 - Graficos de lineas con multiplos pequeños
 - Mapa coropletico
 - Interacciones
-- [BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
+-4. [BD CURSOS - Intermedio](https://github.com/lismarcamacho/proyecto-intermedio-BD-CURSOS)
 
 ### Combinando columnas
 
-[BBDD-VENTAS-Y-CODIGOS - Intermedio](https://github.com/lismarcamacho/BBDD-VENTAS-Y-CODIGOS-POWER-BI/blob/main/README.md)
+5. [BBDD-VENTAS-Y-CODIGOS - Intermedio](https://github.com/lismarcamacho/BBDD-VENTAS-Y-CODIGOS-POWER-BI/blob/main/README.md)
 
 ### Anexando columnas, agregando columnas personalizadas
-[BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
+6. [BBDD GASTOS POR DEPARTAMENTO- Intermedio](https://github.com/lismarcamacho/BBDD-GASTOS-POR-DEPARTAMENTO---POWER-BI)
 
-[Modelo de Datoa- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos/)
+7. [Modelo de Datoa- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos/)
 
-[MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
+8. [MODELO DE DATOS PEDIDOS PROVEEDOR- Intermedio](https://github.com/lismarcamacho/MODELO-DE-DATOS-PEDIDOS-PROVEEDOR)
 
 
-[Importando carpetas en power bi- Intermedio](https://github.com/lismarcamacho/Carpeta-gastos-mensuales)
+9. [Importando carpetas en power bi- Intermedio](https://github.com/lismarcamacho/Carpeta-gastos-mensuales)
 
-[Modelo de datos snow flake power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos-snow-flake)
+10. [Modelo de datos estrella en power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos)
+
+11 [Modelo de datos snow flake power bi- Intermedio](https://github.com/lismarcamacho/Modelo-de-datos-snow-flake)
